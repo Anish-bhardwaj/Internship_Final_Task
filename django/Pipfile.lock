@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "1ec23bd123a3e0902c26953a17ca6cc60a6773f97d42b4998d1ab4f5e6366c8a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django-mobile": {
+            "hashes": [
+                "sha256:3420dc10a199a9f65acadb1243fb539e3045ee51fa6f5031ee57831b19713b86"
+            ],
+            "index": "pypi",
+            "version": "==0.7.0"
+        }
+    },
+    "develop": {}
+}
